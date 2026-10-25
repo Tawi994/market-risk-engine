@@ -155,7 +155,7 @@ pytest
 
 ## Dependencies
 
-`numpy`, `pandas`, `scipy`, `matplotlib`, `yfinance`, `pandas-datareader`, `pytest`. Pin exact versions in `requirements.txt`, since `yfinance` output formats change between releases.
+`numpy`, `pandas`, `scipy`, `matplotlib`, `yfinance`, `pandas-datareader`, `pytest`.
 
 ## License
 
