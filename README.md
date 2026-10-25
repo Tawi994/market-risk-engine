@@ -116,7 +116,7 @@ market-risk-engine/
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/market-risk-engine.git
+git clone https://github.com/Tawi994/market-risk-engine.git
 cd market-risk-engine
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
